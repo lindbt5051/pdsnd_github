@@ -5,7 +5,7 @@ July 16, 2020
 Final Project for Nanodegree
 
 ### Description
-Describe what your project is about and what it does
+Reviewing version control in git and githup
 
 ### Files used
 Include the files used
